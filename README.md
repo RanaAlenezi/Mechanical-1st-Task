@@ -5,3 +5,4 @@ Triangles 60
 Quads 5.8
 Polygons 155
 Total triangles 13.9 
+ And I use blender in animated.
